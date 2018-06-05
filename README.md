@@ -1,7 +1,8 @@
 # Proyecto_Final
 # Integrantes:
-Jorge David Soto Avellaneda.
-Fernando Mendivelso Torres.
+- Jorge David Soto Avellaneda.
+- Fernando Mendivelso Torres.
+- Andres Camilo Molano Mendieta.
 # Objetivos:
 Objetivo general: Crear una aplicación que permita facilitar información acerca de guías turísticos y principales lugares turísticos de alguno países, generando una especie de red de voluntarios.
 Objetivos específicos:
