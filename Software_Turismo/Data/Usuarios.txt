@@ -1,0 +1,6 @@
+id, usuario, password, nombre, apellido, telefono, pais, nacimiento, descripcion
+132, f, 1, Fredy, Rosero, 6555555, CO, 1980, turismo deportivo
+asd, asd, 123, Camilo, Torres, 312 56278, CO, 1996, turismo museos
+1, 222, 222, carlos, chisco, 12345, CO, 12, turismo gastronomico
+qwe, qwe, qwe, Tomas, Julio, 122234, AD, 1950, turismo Natural
+jhgjhgjhg, nhjhgj, kjhjhkj, carlos, Farias, 123456, AO, 1987, turismo gastronomico

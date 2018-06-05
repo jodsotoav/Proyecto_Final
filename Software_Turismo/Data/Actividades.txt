@@ -1,0 +1,3 @@
+id, titulo, descripcion, precio, img, pais
+1, Actividad1, BUCEAR CON TIBURONES MARTILLO EN LA ISLA DE MALPELO, $4.500.000, act1.jpg, CO
+2, Actividad2, RECORRER EL JARDÍN CIRCUNVALAR DE LOS CERROS DE MEDELLÍN, ¡Es gratis!, act2.jpg, CO
