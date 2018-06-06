@@ -17,6 +17,23 @@ fila seleccionar.
 agregar.
 guardar.
 - Fila:
+- Gestor:
+  -ActividadesGestor
+  -CalificacionesGestor
+  -SitiosGestor
+  -UsuariosGestor
+- Modelo:
+  - ActividadModelo.
+  -CalificacionModelo.
+  -SitioModelo. 
+  -UsuarioModelo.
+ # Resultados:
+El programa permite registrar usuarios, tiene una ventada de entrada a este, cuenta con algunas opciones de países entre la cual se destaca Colombia una vez entrado en cada país podrán aparecer los  guías de cada país con su información correspondiente , se podrá calificar a este y acceder a algunos lugares y actividades típicas del país que se selecciones este solo lo alcanzamos a hacer para Colombia.
+ # Trabajo futuro
+ El trabajo puede mejorarse mucho más pero por cuestiones de tiempo no pudimos avanzar más, se podría crear una especie de comunicación por medio del programa que permita contactar a los guías mucho más fácil  y no  solo dando los datos personales de estos, además se podría hacer una filtro más específico dentro de cada país por regiones ciudades.
+ 
+  
+
 
 
 
